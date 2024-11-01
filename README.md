@@ -1,4 +1,4 @@
----
+-mzchyna620 aka kristalNguye/JaiTi Iris Boron--
 layout: home
 title: GenAICHI 2024
 description: CHI Workshop on Generative AI and HCI
